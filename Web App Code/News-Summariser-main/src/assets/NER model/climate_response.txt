@@ -1,0 +1,49 @@
+{
+    "code": 200,
+    "data": {
+        "entity": [
+            "climate change",
+            "global warming",
+            "Korea missile",
+            "Prayer greatest",
+            "oligarchs",
+            "Shearer Micah",
+            "fossil fuels",
+            "IPCC",
+            "fossil fuel",
+            "temperatures",
+            "extreme weather",
+            "greenhouse gas emissions",
+            "Climate change",
+            "atmosphere",
+            "carbon dioxide",
+            "wind",
+            "sea level rise",
+            "methane",
+            "flooding",
+            "drought"
+        ],
+        "values": [
+            1172,
+            528,
+            506,
+            506,
+            506,
+            506,
+            394,
+            388,
+            366,
+            353,
+            264,
+            258,
+            256,
+            243,
+            239,
+            210,
+            205,
+            203,
+            201,
+            194
+        ]
+    }
+}

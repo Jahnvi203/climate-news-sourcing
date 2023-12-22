@@ -1,0 +1,41 @@
+{
+    "code": 200,
+    "data": {
+        "entity": [
+            "Biden",
+            "Covid",
+            "Trump",
+            "Matt McGrath",
+            "Glasgow",
+            "Donald Trump",
+            "Joe Biden",
+            "Johnson",
+            "Boris Johnson",
+            "Greta Thunberg",
+            "Roger Harrabin",
+            "Kerry",
+            "Fahrenheit",
+            "Follow Matt",
+            "Follow Matt Twitter",
+            "Obama"
+        ],
+        "values": [
+            362,
+            253,
+            211,
+            189,
+            144,
+            138,
+            127,
+            67,
+            64,
+            64,
+            64,
+            60,
+            51,
+            50,
+            48,
+            42
+        ]
+    }
+}

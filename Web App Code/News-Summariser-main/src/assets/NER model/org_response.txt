@@ -1,0 +1,39 @@
+{
+    "code": 200,
+    "data": {
+        "entity": [
+            "UN",
+            "Athens Central Europe",
+            "CO",
+            "COP",
+            "Trump",
+            "EU",
+            "Paris Agreement",
+            "Climate",
+            "Congress",
+            "IPCC",
+            "Amazon",
+            "White House",
+            "Senate",
+            "United Nations",
+            "EPA"
+        ],
+        "values": [
+            564,
+            506,
+            421,
+            341,
+            326,
+            223,
+            193,
+            182,
+            129,
+            125,
+            103,
+            98,
+            85,
+            80,
+            66
+        ]
+    }
+}

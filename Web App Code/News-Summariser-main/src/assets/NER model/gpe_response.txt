@@ -1,0 +1,49 @@
+{
+    "code": 200,
+    "data": {
+        "entity": [
+            "US",
+            "Ukraine",
+            "UK",
+            "China",
+            "Russia",
+            "Norway",
+            "Paris",
+            "Australia",
+            "California",
+            "United States",
+            "India",
+            "Canada",
+            "America",
+            "Germany",
+            "Brazil",
+            "Japan",
+            "Greenland",
+            "France",
+            "New York",
+            "London"
+        ],
+        "values": [
+            1940,
+            1089,
+            1086,
+            734,
+            673,
+            550,
+            500,
+            401,
+            259,
+            257,
+            240,
+            139,
+            139,
+            138,
+            122,
+            111,
+            100,
+            100,
+            99,
+            98
+        ]
+    }
+}

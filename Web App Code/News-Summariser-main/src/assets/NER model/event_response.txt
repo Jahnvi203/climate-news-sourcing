@@ -1,0 +1,49 @@
+{
+    "code": 200,
+    "data": {
+        "entity": [
+            "Industrial Revolution",
+            "Hurricane Ida",
+            "World War II",
+            "World War Two",
+            "Hurricane Florence",
+            "Olympics",
+            "Great Depression",
+            "Hurricane Katrina",
+            "Holocaust",
+            "Black Summer",
+            "Cold War",
+            "Black Friday",
+            "underground Kharkhiv",
+            "Hurricane Irma",
+            "Hurricane Dorian",
+            "WWII",
+            "Second World War",
+            "World Cup",
+            "Net Zero Strategy",
+            "Hurricane Harvey"
+        ],
+        "values": [
+            20,
+            17,
+            9,
+            7,
+            6,
+            6,
+            6,
+            5,
+            5,
+            4,
+            4,
+            4,
+            4,
+            3,
+            3,
+            3,
+            3,
+            3,
+            2,
+            2
+        ]
+    }
+}
