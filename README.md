@@ -1,6 +1,6 @@
 # **Climate News Sourcing**
 
-**How to Start**
+## How to Start
 
 1. yarn install
 2. cd src/flask
